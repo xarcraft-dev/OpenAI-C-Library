@@ -1,0 +1,8 @@
+# Visual Studio Code Settings
+.vscode
+
+# ENV File
+.env
+
+# Output Folder
+output/
